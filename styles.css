@@ -39,3 +39,14 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #4ECCA3;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.btn{
+ margin-bottom: 1rem;
+}
